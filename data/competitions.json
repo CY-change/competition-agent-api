@@ -1,0 +1,2158 @@
+{
+ "meta": {
+  "title": "大学生竞赛信息库",
+  "source": "campus_competition_agent 数据库导出",
+  "brand_count": 84,
+  "edition_count": 84,
+  "fields_note": "日期与届次为联网核实结果，缺失为 null"
+ },
+ "competitions": [
+  {
+   "brand_id": 1,
+   "name": "华为ICT大赛",
+   "alias": "ICT大赛",
+   "official_url": "https://e.huawei.com/cn/talent/#/ict-contest",
+   "organizer": "华为技术有限公司",
+   "level": "国家级",
+   "category": "工科",
+   "description": "实践赛（网络、云、基础软件）、创新赛、编程赛（仓颉）、挑战赛、精英赛、算子赛（昇腾AI）、教学赛",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十一届",
+    "registration_start": "2026-08-31",
+    "registration_end": "2026-11-30",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "网络",
+     "云计算",
+     "编程",
+     "算法",
+     "AI",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 2,
+   "name": "中国国际大学生创新大赛",
+   "alias": "互联网+、国创赛",
+   "official_url": "https://cy.ncss.cn",
+   "organizer": "教育部、中央统战部、中央网信办、国家发展改革委、工业和信息化部、人力资源社会保障部、农业农村部、中国科学院、中国工程院、国家知识产权局、共青团中央和江苏省人民政府",
+   "level": "国家级",
+   "category": "综合",
+   "description": "高教主赛道、青年红色筑梦之旅赛道、职教赛道、产业命题赛道、萌芽赛道",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "默认",
+    "registration_start": "2026-08-10",
+    "registration_end": "2026-09-25",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 15,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "路演答辩",
+     "文档写作",
+     "算法",
+     "编程"
+    ]
+   }
+  },
+  {
+   "brand_id": 3,
+   "name": "“挑战杯”中国大学生创业计划竞赛",
+   "alias": "小挑、创青春",
+   "official_url": "https://www.tiaozhanbei.net/",
+   "organizer": "共青团中央、教育部、人力资源社会保障部、中国科协、全国学联和省级人民政府",
+   "level": "国家级",
+   "category": "综合",
+   "description": "先进制造、新一代信息技术、生物医药与健康科技、新能源新材料、现代农业与食品科技、新消费与文化创意、现代服务与社会治理",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十五届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 15,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "路演答辩",
+     "文档写作",
+     "算法"
+    ]
+   }
+  },
+  {
+   "brand_id": 4,
+   "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+   "alias": "大挑",
+   "official_url": "https://www.tiaozhanbei.net/",
+   "organizer": "共青团中央、中国科协、教育部、中国社会科学院、全国学联",
+   "level": "国家级",
+   "category": "综合",
+   "description": "自然科学类学术论文、哲学社会科学类社会调查报告、科技发明制作A类、科技发明制作B类",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十九届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2025-11-02",
+    "competition_end": "2025-11-03",
+    "team_size_min": 3,
+    "team_size_max": 15,
+    "required_skills": [
+     "算法",
+     "AI",
+     "硬件",
+     "电路",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 5,
+   "name": "全国大学生电子设计竞赛",
+   "alias": "电赛、TI杯",
+   "official_url": "https://www.nuedc-training.com.cn/",
+   "organizer": "教育部高等教育司、工业和信息化部人事教育司",
+   "level": "国家级",
+   "category": "工科",
+   "description": "本科组、高职高专组；命题涵盖电源类、仪器仪表类、信号处理类、控制类、通信类、AI应用等，每年6-8题任选其一",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "默认",
+    "registration_start": null,
+    "registration_end": "2025-05-31",
+    "competition_start": "2025-07-30",
+    "competition_end": "2025-08-02",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "电路",
+     "硬件",
+     "控制",
+     "编程",
+     "文档写作"
+    ]
+   }
+  },
+  {
+   "brand_id": 6,
+   "name": "全国大学生智能汽车竞赛",
+   "alias": "智能车",
+   "official_url": "https://www.smartcarrace.com/",
+   "organizer": "中国自动化学会（2020年起；由教育部高等学校自动化类专业教学指导委员会创办）",
+   "level": "国家级",
+   "category": "工科",
+   "description": "竞速赛（缩微赛道：飞檐走壁、疯狂电路、蚂蚁搬家；室内赛道：飞跃雷区、走马观碑、雁过留痕、人工智能视觉、人工智能模型；室外赛道：卡丁快跑、轮腿穿越、单车定向）、综合创意赛、室外赛（含中国智能车未来挑战赛）",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第二十届",
+    "registration_start": "2024-11-20",
+    "registration_end": "2025-06-15",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "控制",
+     "硬件",
+     "视觉",
+     "AI",
+     "编程",
+     "电路",
+     "机械"
+    ]
+   }
+  },
+  {
+   "brand_id": 7,
+   "name": "全国大学生数学建模竞赛",
+   "alias": "数模、国赛、CUMCM",
+   "official_url": "https://www.mcm.edu.cn/",
+   "organizer": "中国工业与应用数学学会",
+   "level": "国家级",
+   "category": "理科",
+   "description": "本科组（A、B、C题）、高职高专组（D、E题）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "默认",
+    "registration_start": "2026-08-25",
+    "registration_end": "2026-09-07",
+    "competition_start": "2026-09-10",
+    "competition_end": "2026-09-13",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "数模",
+     "算法",
+     "编程",
+     "文档写作"
+    ]
+   }
+  },
+  {
+   "brand_id": 8,
+   "name": "蓝桥杯全国软件和信息技术专业人才大赛",
+   "alias": "蓝桥杯",
+   "official_url": "https://dasai.lanqiao.cn/",
+   "organizer": "工业和信息化部人才交流中心",
+   "level": "国家级",
+   "category": "工科",
+   "description": "软件赛（C/C++程序设计、Java软件开发、Python程序设计、Web应用开发、软件测试、网络安全）、电子赛、人工智能赛、数字科技创新赛、视觉艺术设计赛",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十七届",
+    "registration_start": "2025-10-20",
+    "registration_end": "2026-03-11",
+    "competition_start": "2026-06-06",
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 1,
+    "required_skills": [
+     "编程",
+     "算法",
+     "AI",
+     "美术设计"
+    ]
+   }
+  },
+  {
+   "brand_id": 9,
+   "name": "中国机器人及人工智能大赛",
+   "alias": "CRAIC",
+   "official_url": "https://www.caairobot.com/",
+   "organizer": "中国机器人及人工智能大赛组委会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "创新类、机器人创意类、无人驾驶类、机器人应用类、人工智能类等（赛项每年调整，以官网当届通知为准）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第二十八届",
+    "registration_start": "2026-03-01",
+    "registration_end": "2026-05-22",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 5,
+    "required_skills": [
+     "AI",
+     "视觉",
+     "控制",
+     "机械",
+     "编程"
+    ]
+   }
+  },
+  {
+   "brand_id": 10,
+   "name": "睿抗机器人开发者大赛（RAICOM）",
+   "alias": "RAICOM、睿抗",
+   "official_url": "https://www.robocom.com.cn/",
+   "organizer": "工业和信息化部人才交流中心",
+   "level": "国家级",
+   "category": "工科",
+   "description": "CAIP编程设计赛道、机器人创新应用赛道、工程竞技赛道等（每年调整）",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "默认",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2025-10-17",
+    "competition_end": "2025-10-19",
+    "team_size_min": 1,
+    "team_size_max": 3,
+    "required_skills": [
+     "编程",
+     "算法",
+     "AI",
+     "控制",
+     "机械"
+    ]
+   }
+  },
+  {
+   "brand_id": 11,
+   "name": "全国大学生嵌入式芯片与系统设计大赛",
+   "alias": "嵌入式大赛",
+   "official_url": "https://www.socchina.net/",
+   "organizer": "中国电子教育学会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "应用赛道（芯片应用）、FPGA创新设计赛道、设计专项赛（芯片设计）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第九届",
+    "registration_start": null,
+    "registration_end": "2026-04-20",
+    "competition_start": "2026-08-10",
+    "competition_end": "2026-08-13",
+    "team_size_min": 1,
+    "team_size_max": 3,
+    "required_skills": [
+     "电路",
+     "硬件",
+     "编程",
+     "控制",
+     "AI"
+    ]
+   }
+  },
+  {
+   "brand_id": 12,
+   "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+   "alias": "大唐杯",
+   "official_url": "https://dtcup.dtxiaotangren.com",
+   "organizer": "工业和信息化部人才交流中心、中国通信企业协会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "5G工程实践赛、5G仿真挑战赛等（赛项每年调整）",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十二届",
+    "registration_start": null,
+    "registration_end": "2025-03-31",
+    "competition_start": "2025-07-10",
+    "competition_end": "2025-07-14",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "网络",
+     "编程",
+     "电路"
+    ]
+   }
+  },
+  {
+   "brand_id": 13,
+   "name": "全国大学生物联网设计竞赛",
+   "alias": "物联网赛",
+   "official_url": "https://iot.sjtu.edu.cn/",
+   "organizer": "华为云计算技术有限公司",
+   "level": "国家级",
+   "category": "工科",
+   "description": "按分赛区组织，含华为赛道等企业命题赛道（每年调整）",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十二届",
+    "registration_start": "2025-04-06",
+    "registration_end": "2025-06-15",
+    "competition_start": "2025-08-20",
+    "competition_end": "2025-08-31",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "网络",
+     "云计算",
+     "硬件",
+     "编程",
+     "AI"
+    ]
+   }
+  },
+  {
+   "brand_id": 14,
+   "name": "中国高校计算机大赛",
+   "alias": "CCCC、天梯赛",
+   "official_url": "https://www.c4best.cn/",
+   "organizer": "全国高等学校计算机教育研究会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "团体程序设计天梯赛、移动应用创新赛、网络技术挑战赛、人工智能创意赛、大数据挑战赛等（子赛事单独参赛）",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十届",
+    "registration_start": "2025-02-25",
+    "registration_end": "2025-04-06",
+    "competition_start": "2025-04-07",
+    "competition_end": "2025-08-31",
+    "team_size_min": 10,
+    "team_size_max": 10,
+    "required_skills": [
+     "编程",
+     "算法",
+     "AI",
+     "网络"
+    ]
+   }
+  },
+  {
+   "brand_id": 15,
+   "name": "全国大学生集成电路创新创业大赛",
+   "alias": "集创赛",
+   "official_url": "https://univ.ciciec.com/",
+   "organizer": "工业和信息化部人才交流中心",
+   "level": "国家级",
+   "category": "工科",
+   "description": "按企业杯命制多条赛道（每年8-10条，以官网当届通知为准）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十届",
+    "registration_start": null,
+    "registration_end": "2026-03-31",
+    "competition_start": "2026-08-18",
+    "competition_end": "2026-08-25",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "电路",
+     "硬件",
+     "编程",
+     "AI"
+    ]
+   }
+  },
+  {
+   "brand_id": 16,
+   "name": "“西门子杯”中国智能制造挑战赛",
+   "alias": "西门子杯、CIMC",
+   "official_url": "https://www.siemenscup-cimc.org.cn/",
+   "organizer": "中国仿真学会、西门子（中国）有限公司",
+   "level": "国家级",
+   "category": "工科",
+   "description": "离散行业自动化、运动控制、工业网络、精益智造、智能产线等方向",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十九届",
+    "registration_start": "2025-03-01",
+    "registration_end": "2025-05-31",
+    "competition_start": "2025-07-14",
+    "competition_end": "2025-08-15",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "控制",
+     "编程",
+     "机械",
+     "电路"
+    ]
+   }
+  },
+  {
+   "brand_id": 17,
+   "name": "全国大学生机械创新设计大赛",
+   "alias": "机械创新",
+   "official_url": "https://umic.ckcest.cn/",
+   "organizer": "全国大学生机械创新设计大赛组委会主办",
+   "level": "国家级",
+   "category": "工科",
+   "description": "按届次统一主题命题（主题每届更新，须看当届通知）",
+   "edition": {
+    "edition_year": 2024,
+    "edition_name": "第十一届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2024-07-15",
+    "competition_end": "2024-07-18",
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "机械",
+     "控制",
+     "硬件",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 18,
+   "name": "全国大学生节能减排社会实践与科技竞赛",
+   "alias": "节能减排赛",
+   "official_url": "https://www.jienengjianpai.org",
+   "organizer": "教育部高等教育司、教育部高等学校能源动力类专业教学指导委员会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "科技作品类、社会实践类",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十八届",
+    "registration_start": null,
+    "registration_end": "2025-04-12",
+    "competition_start": "2025-08-08",
+    "competition_end": "2025-08-11",
+    "team_size_min": 3,
+    "team_size_max": 7,
+    "required_skills": [
+     "硬件",
+     "机械",
+     "电路",
+     "控制",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 19,
+   "name": "全国大学生创新创业训练计划年会展示",
+   "alias": null,
+   "official_url": "http://gjcxcy.bjtu.edu.cn/Index.aspx",
+   "organizer": "教育部",
+   "level": "国家级",
+   "category": "综合",
+   "description": "学术论文交流、改革成果项目展示、创业推介项目",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十九届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": null,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 20,
+   "name": "中美青年创客大赛",
+   "alias": null,
+   "official_url": "https://www.eol.cn/html/lx/maker/",
+   "organizer": "教育部",
+   "level": "国家级",
+   "category": "综合",
+   "description": "主赛道、职业院校分赛道（仅中国赛区）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十三届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2026-07-28",
+    "competition_end": "2026-07-31",
+    "team_size_min": null,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 21,
+   "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+   "alias": null,
+   "official_url": "http://www.3chuang.net/",
+   "organizer": "西安交通大学、全国电子商务产教融合创新联盟",
+   "level": "国家级",
+   "category": "经济管理类",
+   "description": "常规赛、实战赛（含跨境电商实战赛、商务大数据实战赛等）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十六届",
+    "registration_start": "2025-10-20",
+    "registration_end": "2025-12-31",
+    "competition_start": "2026-03-11",
+    "competition_end": "2026-08-10",
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 22,
+   "name": "全国高校商业精英挑战赛-①品牌策划竞赛、②会展专业创新创业实践竞赛、③国际贸易竞赛、④创新创业竞赛、⑤会计与商业管理案例竞赛",
+   "alias": null,
+   "official_url": "http://cubec.org.cn/",
+   "organizer": "中国国际贸易促进委员会商业行业委员会牵头，会同有关专业协会（学会）、事业单位联合主办",
+   "level": "国家级",
+   "category": "经济管理类",
+   "description": "品牌策划竞赛、会展竞赛、国际贸易竞赛、创新创业竞赛、会计与商业管理竞赛等",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十四届",
+    "registration_start": null,
+    "registration_end": "2025-10-30",
+    "competition_start": "2026-04-25",
+    "competition_end": "2026-04-26",
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 23,
+   "name": "中国大学生服务外包创新创业大赛",
+   "alias": null,
+   "official_url": "http://www.fwwb.org.cn/",
+   "organizer": "国家服务外包人力资源研究院、无锡市商务局、无锡市教育",
+   "level": "国家级",
+   "category": "综合",
+   "description": "企业命题类赛项（A类）、创新创业类赛项（B类）等",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十七届",
+    "registration_start": "2026-02-11",
+    "registration_end": "2026-03-20",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": null,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 24,
+   "name": "iCAN大学生创新创业大赛",
+   "alias": null,
+   "official_url": "www.g-ican.com",
+   "organizer": "中国信息局协会主办",
+   "level": "国家级",
+   "category": "综合",
+   "description": "创新赛道、创业赛道、挑战赛道、数字化创业经营模拟挑战赛",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第二十届",
+    "registration_start": "2026-04-01",
+    "registration_end": "2026-08-31",
+    "competition_start": "2026-09-01",
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 25,
+   "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛-①英语演讲，②英语辩论、③英语写作、④英语阅读",
+   "alias": null,
+   "official_url": "http://uchallenge.unipus.cn/",
+   "organizer": "北京外国语大学主办，外语教学与研究出版社承办",
+   "level": "国家级",
+   "category": "外语/语言类",
+   "description": "英语演讲、英语辩论、英语写作、英语阅读",
+   "edition": {
+    "edition_year": null,
+    "edition_name": "默认",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 5,
+    "required_skills": [
+     "英语",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 26,
+   "name": "“21世纪杯”全国英语演讲比赛",
+   "alias": null,
+   "official_url": "https://contest.i21st.cn/",
+   "organizer": "中国日报社",
+   "level": "国家级",
+   "category": "外语/语言类",
+   "description": "英语演讲（含大学组、高中组、国际组）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第三十一届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 1,
+    "required_skills": [
+     "英语",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 27,
+   "name": "“外教社杯”全国高校学生跨文化能力大赛",
+   "alias": null,
+   "official_url": "https://ict.sflep.com/index.php?m=content&c=index&a=lists&catid=49",
+   "organizer": "上海外国语大学",
+   "level": "国家级",
+   "category": "外语/语言类",
+   "description": "跨文化能力（含案例交流、文化知识等）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第九届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "英语",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 28,
+   "name": "中华经典诵写讲大赛",
+   "alias": null,
+   "official_url": "https://jdsxj.eduyun.cn/",
+   "organizer": "教育部、国家语委",
+   "level": "国家级",
+   "category": "综合",
+   "description": "诵读、书写、讲解、篆刻",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第八届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 29,
+   "name": "全国大学生市场调查与分析大赛",
+   "alias": null,
+   "official_url": "http://www.china-cssc.org/list-56-1.html",
+   "organizer": "中国商业统计学会",
+   "level": "国家级",
+   "category": "经济管理类",
+   "description": "理论知识赛（网考）+实践赛（市场调查研究报告），设专科组/本科组/研究生组/在华留学生组",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十七届",
+    "registration_start": null,
+    "registration_end": "2026-10-31",
+    "competition_start": "2026-11-01",
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 30,
+   "name": "全国大学生统计建模大赛",
+   "alias": null,
+   "official_url": "http://tjjmds.ai-learning.net/",
+   "organizer": "中国统计教育学会",
+   "level": "国家级",
+   "category": "理科",
+   "description": "统计建模（本科组、研究生组）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十二届",
+    "registration_start": null,
+    "registration_end": "2026-03-31",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "数模",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 31,
+   "name": "全国大学生能源经济学术创意大赛",
+   "alias": null,
+   "official_url": "http://energy.qibebt.ac.cn/eneco/contribution/index.html#/index",
+   "organizer": "中国优选法统筹法与经济数学研究会",
+   "level": "国家级",
+   "category": "经济管理类",
+   "description": "能源经济赛道、能源金融与管理赛道、调研与创新创业赛道、泛能源大数据赛道",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十二届",
+    "registration_start": "2025-10-13",
+    "registration_end": "2025-11-16",
+    "competition_start": "2026-03-16",
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 4,
+    "required_skills": [
+     "硬件",
+     "数模",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 32,
+   "name": "全国本科院校税收风险管控赛例大赛",
+   "alias": null,
+   "official_url": "http://ssfkds.moocollege.com/home",
+   "organizer": "中国高等教育学会高等财经教育分会、浙江财经大学、浙江省注册税务师协会",
+   "level": "国家级",
+   "category": "经济管理类",
+   "description": "税收风险管控案例分析",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "默认",
+    "registration_start": "2026-06-26",
+    "registration_end": "2026-09-20",
+    "competition_start": "2026-10-12",
+    "competition_end": "2026-12-06",
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 33,
+   "name": "“科云杯”全国大学生财会职业能力大赛",
+   "alias": null,
+   "official_url": "http://match.xmkeyun.com.cn/nc/ncindex.do?main&matchCode=9",
+   "organizer": "中国商业会计学会",
+   "level": "国家级",
+   "category": "经济管理类",
+   "description": "财会职业能力（含会计核算、财务分析、税务申报等）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十一届",
+    "registration_start": "2026-08-31",
+    "registration_end": "2026-10-30",
+    "competition_start": "2026-11-21",
+    "competition_end": "2026-12-20",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 34,
+   "name": "“工行杯”全国大学生金融科技创新大赛",
+   "alias": null,
+   "official_url": "https://www.gonghangbei.com/index/Lists/index.html?id=1",
+   "organizer": "中国工商银行",
+   "level": "国家级",
+   "category": "经济管理类",
+   "description": "金融科技创新（企业命题+自主创新）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十七届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 35,
+   "name": "全国企业竞争模拟大赛",
+   "alias": null,
+   "official_url": "http://www.ibizsim.cn/",
+   "organizer": "中国管理现代化研究会决策模拟专业委员会",
+   "level": "国家级",
+   "category": "经济管理类",
+   "description": "企业竞争模拟（决策模拟经营）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "默认",
+    "registration_start": "2026-03-01",
+    "registration_end": "2026-03-22",
+    "competition_start": "2026-04-11",
+    "competition_end": "2026-05-24",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 36,
+   "name": "全国高等院校数智化企业经营沙盘大赛",
+   "alias": null,
+   "official_url": "https://spbk22.seentao.com/",
+   "organizer": "中国商业联合会",
+   "level": "国家级",
+   "category": "经济管理类",
+   "description": "数智化企业经营沙盘模拟经营（分本科组/高职组）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第二十二届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 5,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 37,
+   "name": "“学创杯”全国大学生创业综合模拟大赛",
+   "alias": null,
+   "official_url": "http://www.bster.cn/cyds/index",
+   "organizer": "高等学校国家级实验教学示范中心联席会经管学科组、中国陶行知研究会",
+   "level": "国家级",
+   "category": "经济管理类",
+   "description": "创业综合模拟大赛（主体竞赛）、创业营销专项活动",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十三届",
+    "registration_start": "2025-12-15",
+    "registration_end": "2026-04-28",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 38,
+   "name": "全国大学生生命科学竞赛(CULSC)-生命科学竞赛、生命创新创业大赛",
+   "alias": null,
+   "official_url": "https://www.culsc.cn/#/",
+   "organizer": "教育部高等学校生物学教学指导委员会",
+   "level": "国家级",
+   "category": "理科",
+   "description": "科学探究类、创新创业类双赛道",
+   "edition": {
+    "edition_year": null,
+    "edition_name": "默认",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 39,
+   "name": "全国大学生基础医学创新研究暨实验设计论坛(大赛)",
+   "alias": null,
+   "official_url": "http://www.jcyxds.com/",
+   "organizer": "高等学校国家级实验教学示范中心联席会基础医学组",
+   "level": "国家级",
+   "category": "医学类",
+   "description": "创新研究论坛、实验设计论坛；下设基础临床、法医学、口腔医学、预防医学、药学中医药、交叉学科6个学科赛道及\"一带一路\"国际竞赛赛道",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十二届",
+    "registration_start": null,
+    "registration_end": "2026-04-15",
+    "competition_start": "2026-08-14",
+    "competition_end": "2026-08-18",
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 40,
+   "name": "全国大学生化工设计竞赛",
+   "alias": null,
+   "official_url": "http://iche.zju.edu.cn/",
+   "organizer": "中国化工学会、中国化工教育协会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "化工设计竞赛（初赛分华东、华南、华西、华北、华中五赛区，全国总决赛）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第二十届",
+    "registration_start": "2026-03-01",
+    "registration_end": "2026-03-31",
+    "competition_start": "2026-08-12",
+    "competition_end": "2026-08-17",
+    "team_size_min": 5,
+    "team_size_max": 5,
+    "required_skills": [
+     "硬件",
+     "数模",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 41,
+   "name": "全国大学生化工实验大赛",
+   "alias": null,
+   "official_url": "http://www.cteic.com/higherEducation-199.html?www.kulayu.com",
+   "organizer": "中国化工教育协会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "化工原理理论笔试、化工单元仿真操作、化工原理实验三大考核模块",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第九届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2026-08-08",
+    "competition_end": "2026-08-11",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "硬件",
+     "数模",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 42,
+   "name": "全国大学生化学实验创新设计大赛",
+   "alias": null,
+   "official_url": "https://cid.nju.edu.cn/",
+   "organizer": "中国化学会、高等学校国家级实验教学示范中心联席会",
+   "level": "国家级",
+   "category": "理科",
+   "description": "新创实验、改进实验、科普实验三个赛道",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第六届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "硬件",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 43,
+   "name": "全国大学生物理实验竞赛",
+   "alias": null,
+   "official_url": "http://wlsycx.moocollege.com/",
+   "organizer": "国家级实验教学示范中心联席会物理学科组、全国高等学校实验物理教学研究会、中国物理学会物理教学委员会、教育部大学物理课程教学指导委员会",
+   "level": "国家级",
+   "category": "理科",
+   "description": "教学赛（基础性实验、综合研究性实验）、创新赛（命题类创新作品、自选课题类创新作品、物理实验讲课比赛）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十二届",
+    "registration_start": "2026-09-01",
+    "registration_end": "2026-09-15",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 2,
+    "team_size_max": 5,
+    "required_skills": [
+     "硬件",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 44,
+   "name": "中国大学生工程实践与创新能力大赛",
+   "alias": null,
+   "official_url": "http://www.gcxl.edu.cn/new/index.html",
+   "organizer": "教育部高等教育司、教育部工程训练教学指导委员会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "新能源车赛道、\"智能+\"赛道、虚拟仿真赛道",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第九届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2025-08-05",
+    "competition_end": "2025-08-10",
+    "team_size_min": 3,
+    "team_size_max": 4,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 45,
+   "name": "全国大学生光电设计竞赛",
+   "alias": null,
+   "official_url": "http://gd.p.moocollege.com/",
+   "organizer": "中国光学学会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "创意赛道、光学设计赛道",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十四届",
+    "registration_start": null,
+    "registration_end": "2026-04-19",
+    "competition_start": "2026-06-20",
+    "competition_end": "2026-06-21",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 46,
+   "name": "中国大学生机械工程创新创意大赛",
+   "alias": null,
+   "official_url": "http://meicc.cmes.org/datacenter",
+   "organizer": "中国机械工程学会",
+   "level": "行业级",
+   "category": "工科",
+   "description": "创意赛道（机械产品数字化设计赛等）、创新赛道（智能制造赛、过程装备实践与创新赛、铸造工艺设计赛等19个赛项）、毕业设计赛道",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "默认",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "机械",
+     "控制",
+     "硬件",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 47,
+   "name": "全国周培源大学生力学竞赛",
+   "alias": null,
+   "official_url": "http://zpy.cstam.org.cn/",
+   "organizer": "教育部高等学校力学教学指导委员会力学基础课程教学指导分委员会、中国力学学会和周培源基金会共同主办",
+   "level": "国家级",
+   "category": "理科",
+   "description": "个人赛（闭卷笔试，理论力学+材料力学）、团体赛（团队课题研究+基础力学实验竞赛）",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十五届",
+    "registration_start": "2025-01-10",
+    "registration_end": "2025-03-31",
+    "competition_start": "2025-05-18",
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 3,
+    "required_skills": [
+     "硬件",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 48,
+   "name": "全国大学生结构设计竞赛",
+   "alias": null,
+   "official_url": "http://www.structurecontest.com/",
+   "organizer": "中国高等教育学会工程教育专业委员会、高等学校土木工程学科专业指导委员会、中国土木工程学会教育工作委员会和教育部科学技术委员会环境与土木水利学部共同主办",
+   "level": "国家级",
+   "category": "工科",
+   "description": "结构设计竞赛（制作结构模型承受荷载测试，含方案设计、模型制作、加载测试、现场答辩）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十九届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2026-10-14",
+    "competition_end": "2026-10-18",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 49,
+   "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+   "alias": null,
+   "official_url": "http://www.chengtudasai.com/",
+   "organizer": "教育部高等学校工程图学教学指导委员会、中国图学学会制图技术专业委员会、中国图学学会产品信息建模专业委员会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "机械类、道桥类、水利类、土木与建筑类四个类别；含尺规绘图和产品信息建模及工程图绘制",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十九届",
+    "registration_start": "2026-04-01",
+    "registration_end": "2026-04-25",
+    "competition_start": "2026-07-31",
+    "competition_end": "2026-08-03",
+    "team_size_min": 5,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 50,
+   "name": "全国大学生水利创新设计大赛",
+   "alias": null,
+   "official_url": "https://sljzw.hhu.edu.cn/fenhui/12019/list.psp",
+   "organizer": "中国水利教育协会、教育部高等学校水利类专业教学指导委员会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "实物作品竞赛（聚焦水利工程智能监测、生态治理和资源化利用）",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第九届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2025-07-15",
+    "competition_end": "2025-07-17",
+    "team_size_min": 5,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 51,
+   "name": "国际大学生智能农业装备创新大赛",
+   "alias": null,
+   "official_url": "http://uiaec.ujs.edu.cn",
+   "organizer": "中国农业机械学会、中国农业工程学会、教育部高等学校农业工程类专业教学指导委员会和江苏省现代农业装备与技术",
+   "level": "国家级",
+   "category": "工科",
+   "description": "A类（自由选题类）、B类（机器人类）、C类（企业出题类）、D类（概念设计类）",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十一届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 2,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 52,
+   "name": "中国机器人大赛暨 RoboCup 机器人世界杯中国赛",
+   "alias": null,
+   "official_url": "http://crc.drct-caa.org.cn/",
+   "organizer": "协中同国创自新动中化心学主会办",
+   "level": "国际级",
+   "category": "工科",
+   "description": "RoboCup足球机器人、RoboCup救援组、篮球机器人、机器人先进视觉赛、无人机挑战赛等14个大项20个小项",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "默认",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2025-10-17",
+    "competition_end": "2025-10-19",
+    "team_size_min": 3,
+    "team_size_max": 10,
+    "required_skills": [
+     "机械",
+     "控制",
+     "硬件",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 53,
+   "name": "全国大学生机器人大赛(CURC)",
+   "alias": null,
+   "official_url": "http://www.cnrobocon.net/",
+   "organizer": "全国大学生机器人大赛组委会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "RoboMaster机甲大师赛（机器人对抗赛+技术挑战赛）、RoboCon（机器人创意设计比赛）、RoboTac（多机器人战术对抗）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第二十五届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2026-07-31",
+    "competition_end": "2026-08-09",
+    "team_size_min": 10,
+    "team_size_max": 30,
+    "required_skills": [
+     "机械",
+     "控制",
+     "硬件",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 54,
+   "name": "全国大学生机器人大赛-RoboTac",
+   "alias": null,
+   "official_url": "http://www.robotac.cn",
+   "organizer": "全国大学生机器人大赛组委会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "Robot+Tactic多机器人战术对抗竞技，含人形功夫搏击赛等赛项；设国际赛道",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第二十五届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 5,
+    "team_size_max": 10,
+    "required_skills": [
+     "机械",
+     "控制",
+     "硬件",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 55,
+   "name": "中国高校智能机器人创意大赛",
+   "alias": null,
+   "official_url": "http://www.robotcontest.cn/",
+   "organizer": "中国高校智能机器人创意大赛组委会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "智能机器人创意设计与制作，涵盖家用服务机器人、竞技机器人、创意机器人等方向",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第九届",
+    "registration_start": "2026-03-01",
+    "registration_end": "2026-05-08",
+    "competition_start": "2026-07-12",
+    "competition_end": "2026-07-13",
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "机械",
+     "控制",
+     "硬件",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 56,
+   "name": "中国大学生计算机设计大赛",
+   "alias": null,
+   "official_url": "https://jsjds.blcu.edu.cn",
+   "organizer": "中国大学生计算机设计大赛组织委员会",
+   "level": "国家级",
+   "category": "综合",
+   "description": "软件应用与开发类、微课与课件类、数字媒体设计类、计算机音乐创作类、大数据应用、AI辅助教学、物联网应用、信息可视化设计等",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十九届",
+    "registration_start": null,
+    "registration_end": "2026-05-30",
+    "competition_start": "2026-07-17",
+    "competition_end": "2026-08-20",
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 57,
+   "name": "ACM-ICPC 国际大学生程序设计竞赛",
+   "alias": null,
+   "official_url": "https://acm.cumt.edu.cn/",
+   "organizer": "美国计算机协会（ACM）",
+   "level": "国际级",
+   "category": "理科",
+   "description": "算法与程序设计竞赛，5小时内3人共用1台电脑解决8-10个算法问题",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第五十一届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "编程",
+     "算法",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 58,
+   "name": "“中国软件杯”大学生软件设计大赛",
+   "alias": null,
+   "official_url": "http://www.cnsoftbei.com/",
+   "organizer": "工业和信息化部、教育部职业教育与成人教育司、江苏省人",
+   "level": "国家级",
+   "category": "工科",
+   "description": "A组（本科生、研究生）赛题、B组（高职/中职）赛题、信息技术应用创新专项赛道；企业命题",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十五届",
+    "registration_start": "2026-03-24",
+    "registration_end": "2026-07-20",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 3,
+    "required_skills": [
+     "编程",
+     "算法",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 59,
+   "name": "全国大学生信息安全竞赛",
+   "alias": null,
+   "official_url": "http://www.ciscn.cn/",
+   "organizer": "中国互联民网政发府展基金会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "开放式自主命题，信息安全技术作品设计与实现；涵盖Web安全、逆向工程、漏洞挖掘、密码学应用等方向",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十九届",
+    "registration_start": "2026-05-29",
+    "registration_end": "2026-07-05",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 4,
+    "required_skills": [
+     "网络",
+     "云计算",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 60,
+   "name": "百度之星程序设计大赛",
+   "alias": null,
+   "official_url": "https://star.baidu.com/#/",
+   "organizer": "百度在线网络技术（北京）有限公司",
+   "level": "国家级",
+   "category": "理科",
+   "description": "算法设计竞赛（ACM赛制），个人赛；设大学组、高中组、小星星组",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第二十二届",
+    "registration_start": "2026-07-03",
+    "registration_end": null,
+    "competition_start": "2026-08-23",
+    "competition_end": "2026-10-17",
+    "team_size_min": 1,
+    "team_size_max": 1,
+    "required_skills": [
+     "编程",
+     "算法",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 61,
+   "name": "全国大学生计算机系统能力大赛",
+   "alias": null,
+   "official_url": "https://compiler.educg.net/#/",
+   "organizer": "全国高等学校计算机教育研究会、系统能力培养研究专家组、系统能力培养研究项目发起高校",
+   "level": "国家级",
+   "category": "工科",
+   "description": "操作系统设计赛、PolarDB数据库创新设计赛等赛道",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "默认",
+    "registration_start": "2026-03-18",
+    "registration_end": "2026-05-28",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 62,
+   "name": "全国大学生信息安全与对抗技术竞赛",
+   "alias": null,
+   "official_url": "www.isclab.org.cn",
+   "organizer": "中国兵工学会、北京理工大学",
+   "level": "国家级",
+   "category": "工科",
+   "description": "个人挑战赛、分组对抗赛、无限擂台赛、数据思维赛、创新作品赛、智能安全赛等",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第二十三届",
+    "registration_start": "2026-04-24",
+    "registration_end": "2026-04-30",
+    "competition_start": "2026-05-01",
+    "competition_end": "2026-05-18",
+    "team_size_min": 1,
+    "team_size_max": 1,
+    "required_skills": [
+     "网络",
+     "云计算",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 63,
+   "name": "全球校园人工智能算法精英大赛",
+   "alias": null,
+   "official_url": "https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/101655281685926449?ha_source=HR&ha_sourceId=89000452",
+   "organizer": "工业和信息化部人才交流中心",
+   "level": "省部级",
+   "category": "工科",
+   "description": "算法挑战赛、算法精英赛、算法创新赛、算法应用赛、算法专项赛共5个赛道",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第八届",
+    "registration_start": "2026-04-28",
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 3,
+    "required_skills": [
+     "AI",
+     "视觉",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 64,
+   "name": "中国好创意暨全国数字艺术设计大赛",
+   "alias": null,
+   "official_url": "https://www.cdec.org.cn/contestDetail",
+   "organizer": "中国好创意暨全国数字艺术设计大赛组织委员会",
+   "level": "国家级",
+   "category": "美术设计类",
+   "description": "常规赛道（24个投稿类别：视传应用类、动画短片类、社会创新类等）+专项赛道+计时赛",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第二十届",
+    "registration_start": "2025-10-20",
+    "registration_end": "2026-06-30",
+    "competition_start": "2026-07-01",
+    "competition_end": "2026-07-30",
+    "team_size_min": 1,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 65,
+   "name": "全国三维数字化创新设计大赛",
+   "alias": null,
+   "official_url": "https://3dds.3ddl.net/index.php",
+   "organizer": "全国三维数字化创新设计大赛组委会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "数字人居设计赛项、数字化设计与制造大赛、数字文化设计赛项、数字工业设计赛项等",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十九届",
+    "registration_start": "2026-04-03",
+    "registration_end": "2026-06-30",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 66,
+   "name": "全国大学生物流设计大赛",
+   "alias": null,
+   "official_url": "http://www.clpp.org.cn/html/competition/",
+   "organizer": "中国物流与采购联合会",
+   "level": "国家级",
+   "category": "经济管理类",
+   "description": "物流设计方案（基于企业案例），设本科组/研究生组",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "默认",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 67,
+   "name": "全国大学生广告艺术大赛",
+   "alias": null,
+   "official_url": "http://www.sun-ada.net/",
+   "organizer": "全国大学生广告艺术大赛组委会",
+   "level": "国家级",
+   "category": "美术设计类",
+   "description": "平面海报、视频广告、动画广告、互动广告、UI设计、包装设计等",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十八届",
+    "registration_start": "2026-05-10",
+    "registration_end": "2026-06-12",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 5,
+    "required_skills": [
+     "美术设计",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 68,
+   "name": "米兰设计周——中国高校设计学科师生优秀作品展",
+   "alias": null,
+   "official_url": "http://www.dandad.cn/",
+   "organizer": "中国国际贸易促进委员会商业行业委员会、中国国际商会商业行业商会、国家工业研究院（生态设计领域）",
+   "level": "国家级",
+   "category": "美术设计类",
+   "description": "产品设计、视觉传达设计、环境设计、服装与服饰设计、数字媒体艺术、工艺美术等方向",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十届",
+    "registration_start": null,
+    "registration_end": "2026-04-10",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 3,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 69,
+   "name": "未来设计师·全国高校数字艺术设计大赛，含未来设计师·国际创新设计大赛",
+   "alias": null,
+   "official_url": "http://www.ncda.org.cn/",
+   "organizer": "工业和信息化部人才交流中心",
+   "level": "国家级",
+   "category": "美术设计类",
+   "description": "非命题赛道（视觉传达设计、动画与数字媒体、交互设计、人居环境规划、工业及产品设计、时尚设计、AIGC等）+公益赛道+创新创业赛道+实践挑战赛道",
+   "edition": {
+    "edition_year": null,
+    "edition_name": "默认",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 3,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 70,
+   "name": "两岸新锐设计竞赛·华灿奖",
+   "alias": null,
+   "official_url": "http://www.huacanjiang.com/home",
+   "organizer": "中国高等教育学会、中华中山文化交流协会、北京歌华传媒集团有限责任公司",
+   "level": "国家级",
+   "category": "美术设计类",
+   "description": "视觉传达设计、数字媒体设计、产品设计、空间设计、服装设计等方向；面向两岸高校青年学子",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "默认",
+    "registration_start": "2026-10-19",
+    "registration_end": "2026-11-27",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 3,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 71,
+   "name": "全国大学生数字媒体科技作品及创意竞赛",
+   "alias": null,
+   "official_url": "http://mit.caai.cn/",
+   "organizer": "中国人工智能学会、全国大学生数字媒体科技作品及创意竞赛组委会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "数字媒体作品、创意设计、人工智能应用、虚拟现实/增强现实等方向",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十三届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2025-10-25",
+    "competition_end": "2025-10-26",
+    "team_size_min": 1,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 72,
+   "name": "全国大学生工业设计大赛",
+   "alias": null,
+   "official_url": "https://www.cuidc.net/#/",
+   "organizer": "全国工业设计一流专业建设协同创新平台、广东省本科高校工业设计专业教学指导委员会",
+   "level": "国家级",
+   "category": "美术设计类",
+   "description": "工业设计作品（含概念设计、产品设计等）",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第八届",
+    "registration_start": null,
+    "registration_end": "2026-07-31",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "美术设计",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 73,
+   "name": "全国高校 BIM 毕业设计创新大赛",
+   "alias": null,
+   "official_url": "https://gxbsxs.glodonedu.com/home",
+   "organizer": "中国土木工程学会建筑市场与招标投标研究分会、国家数字建筑行业产教融合共同体、广联达科技股份有限公司",
+   "level": "国家级",
+   "category": "建筑类",
+   "description": "BIM建模赛项、BIM应用赛项、BIM综合赛项等；以毕业设计为载体",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十一届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": "2025-05-26",
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 74,
+   "name": "全国数字建筑创新应用大赛",
+   "alias": null,
+   "official_url": "http://bisai.ccen.com.cn",
+   "organizer": "中国建设教育协会",
+   "level": "国家级",
+   "category": "建筑类",
+   "description": "数字建模、工程造价、施工管理、BIM应用、智慧建造等方向",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十七届",
+    "registration_start": "2025-04-01",
+    "registration_end": "2025-08-14",
+    "competition_start": "2025-09-20",
+    "competition_end": "2025-10-18",
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 75,
+   "name": "全国大学生花园设计建造竞赛",
+   "alias": null,
+   "official_url": "http://www.lalavision.com/hysjjzjs",
+   "organizer": "中国风景园林学会教育工作委员会、北京林业大学主办、中国风景园林学会、国际竹藤组织指导",
+   "level": "国家级",
+   "category": "美术设计类",
+   "description": "花园设计、花园建造；涵盖方案设计与实物建造",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第八届",
+    "registration_start": null,
+    "registration_end": "2025-02-21",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 76,
+   "name": "全国大学生测绘学科创新创业智能大赛",
+   "alias": null,
+   "official_url": "http://smt.whu.edu.cn/index.htm",
+   "organizer": "中国测绘学会教育工作委员会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "测绘技能竞赛、科技论文竞赛",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "默认",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2025-07-31",
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 1,
+    "required_skills": [
+     "商业策划",
+     "市场分析",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 77,
+   "name": "世界技能大赛",
+   "alias": null,
+   "official_url": "http://worldskillschina.mohrss.gov.cn/",
+   "organizer": "世界技能组织(WorldSkills International)",
+   "level": "国际级",
+   "category": "职业技能类",
+   "description": "64个比赛项目，6大类：结构与建筑技术、制造与工程技术、信息与通信技术、创意艺术与时尚、社会与个人服务、物流与运输",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第四十八届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2026-09-22",
+    "competition_end": "2026-09-27",
+    "team_size_min": 1,
+    "team_size_max": 1,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 78,
+   "name": "世界技能大赛中国选拔赛",
+   "alias": null,
+   "official_url": "http://worldskillschina.mohrss.gov.cn/",
+   "organizer": "中华人民共和国人力资源和社会保障部",
+   "level": "国家级",
+   "category": "职业技能类",
+   "description": "同世界技能大赛全部64个项目",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第三届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2025-09-20",
+    "competition_end": "2025-09-22",
+    "team_size_min": 1,
+    "team_size_max": 1,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 79,
+   "name": "全国职业院校技能大赛",
+   "alias": null,
+   "official_url": "http://www.chinaskills-jsw.org/",
+   "organizer": "全国职业院校技能大赛执委会",
+   "level": "国家级",
+   "category": "职业技能类",
+   "description": "设中职组和高职组；赛项涵盖信息技术、加工制造、交通运输、土木建筑、财经商贸、旅游服务、农林牧渔、医药卫生等大类",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "默认",
+    "registration_start": "2026-08-21",
+    "registration_end": "2026-09-10",
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 3,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 80,
+   "name": "中国大学生医学技术技能大赛",
+   "alias": null,
+   "official_url": "https://medu.bjmu.edu.cn/cms/show.action?code=publish_4af037e16e",
+   "organizer": "中国大学生医学技术技能大赛组织委员会",
+   "level": "国家级",
+   "category": "医学类",
+   "description": "临床医学、护理学、预防医学、中医学、药学、医学检验技术、医学影像技术等赛道",
+   "edition": {
+    "edition_year": 2025,
+    "edition_name": "第十一届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 3,
+    "team_size_max": 5,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 81,
+   "name": "全国大学生地质技能竞赛",
+   "alias": null,
+   "official_url": "https://yuanxi.cugb.edu.cn/competition/",
+   "organizer": "中国地质学会、教育部高等学校地质学类专业教学指导委员会、教育部高等学校地质类专业教学指导委员会、地质教育研究分会",
+   "level": "国家级",
+   "category": "理科",
+   "description": "地质技能综合应用、地质基础理论知识、野外地质技能等赛项",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第八届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": "2026-08-26",
+    "competition_end": "2026-08-28",
+    "team_size_min": 3,
+    "team_size_max": 3,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 82,
+   "name": "全国大学生金相技能大赛",
+   "alias": null,
+   "official_url": "https://www.jxds.tech/",
+   "organizer": "教育部高等学校材料类专业教学指导委员会",
+   "level": "国家级",
+   "category": "工科",
+   "description": "金相试样制备技能竞赛（个人技能赛），包括试样磨制、抛光、腐蚀、显微组织观察等环节",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十五届",
+    "registration_start": null,
+    "registration_end": "2026-03-31",
+    "competition_start": "2026-07-25",
+    "competition_end": "2026-07-30",
+    "team_size_min": 1,
+    "team_size_max": 1,
+    "required_skills": [
+     "硬件",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 83,
+   "name": "一带一路暨金砖国家技能发展与技术创新大赛",
+   "alias": null,
+   "official_url": "www.brskills.com",
+   "organizer": "一带一路暨金砖国家技能发展国际联盟",
+   "level": "国际级",
+   "category": "职业技能类",
+   "description": "3D打印造型技术、无人机应用、物联网、工业机器人、工业互联网、区块链、虚拟现实、云计算、人工智能等20+赛项",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第十届",
+    "registration_start": null,
+    "registration_end": null,
+    "competition_start": null,
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 3,
+    "required_skills": [
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  },
+  {
+   "brand_id": 84,
+   "name": "码蹄杯全国职业院校程序设计大赛",
+   "alias": null,
+   "official_url": "https://matiji.net/matibei",
+   "organizer": "全国高等学校计算机教育研究会",
+   "level": "行业级",
+   "category": "理科",
+   "description": "程序设计/算法竞赛（OJ在线评测），面向职业院校学生",
+   "edition": {
+    "edition_year": 2026,
+    "edition_name": "第八届",
+    "registration_start": "2026-03-12",
+    "registration_end": "2026-05-24",
+    "competition_start": "2026-03-21",
+    "competition_end": null,
+    "team_size_min": 1,
+    "team_size_max": 1,
+    "required_skills": [
+     "编程",
+     "算法",
+     "文档写作",
+     "路演答辩"
+    ]
+   }
+  }
+ ]
+}
